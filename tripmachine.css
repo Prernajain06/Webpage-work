@@ -1,0 +1,511 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+/*-----------------------------free worldwide shipping space css start---------------------*/
+.fws{
+	border: 1px solid #1a1919;
+    height: 26px;
+    background: #1a1919;
+}
+.fws p{
+    text-align: center;
+    font-size: 12px;
+    font-family: sans-serif;
+    margin-top: 6px;
+    letter-spacing: 1px;
+}
+.fws p a{
+	color: white;
+    text-decoration: none;
+}
+/*-----------------------------free worldwide shipping space css end-----------------------*/
+
+/*-----------------------------------------header css start--------------------------------*/
+
+.header{
+	border: 1px solid #fff;
+	height: 116px;
+	background: #fff;
+}
+.header img{
+	width: 115px;
+    height: 40px;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+
+.navbarcontent{
+	border: 1px solid #fff;
+	height: 106px;
+	width: 880px;
+	float: right;
+    margin-top: 4px;
+    margin-right: 90px;
+}
+.navbarcontent ul{
+	list-style: none;
+	float: right;
+    margin-right: 80px;
+}
+.navbarcontent ul li{
+    display: inline-block;
+    padding: 10px 3px 10px 3px;
+    line-height: 40px;
+    margin-right: 25px;
+    font-weight: 600;
+    font-family: sans-serif;
+    font-size: 13px;
+}
+.navbarcontent ul li a{
+    color: black;
+    text-decoration: none;
+}
+.cart{
+	border: 1px solid #fff;
+	height: 35px;
+	width: 96px;
+    float: right;
+    margin-top: 6px;
+    text-align: center;
+}
+.cart a{
+	text-decoration: none;
+    color: black;
+    font-size: 13px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+/*-----------------------------------------header css end----------------------------------*/
+
+/*-----------------------------------------slider css start--------------------------------*/
+
+.slider{
+	border: 1px solid black;
+	height: 758px;
+	background: url('../image/tripslider.jpg');
+}
+.checkitout{
+	border: 1px solid white;
+	height: 51px;
+	width: 171px;
+    margin-left: 190px;
+    margin-top: 425px;
+    background: #ffffff1f;
+    border-radius: 6px;
+    text-align: center;
+}
+.checkitout a{
+	text-decoration: none;
+    color: white;
+    position: relative;
+    top: 13px;
+    font-size: 13px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+/*-----------------------------------------slider css end----------------------------------*/
+
+/*-----------------------------------------8 container css start--------------------------------*/
+.eightcontainer{
+	border: 1px solid white;
+	height: 660px;
+	/*margin-left: 45px;*/
+}
+
+.eightcontainer2{
+	border: 1px solid white;
+	height: 600px;
+	width: 1180px;
+    margin-top: 30px;
+    margin-left: 80px;
+}
+
+
+.imagecontainer1{
+	border: 1px solid white;
+	height: 280px;
+	width: 280px;
+    /*display: inline-block;*/
+    /*margin-top: 6px;*/
+    margin-left: 8px;
+    background: url('../image/grip.png');
+    background-size: cover;
+    float: left;
+    margin-top: 6px;
+}
+.imagecontainer1 a{
+    text-decoration: none;
+}
+.imagecontainer1 a p{
+    color: white;
+    margin-left: 88px;
+    margin-top: 132px;
+    font-family: sans-serif;
+}
+
+
+.imagecontainer2{
+	border: 1px solid white;
+	height: 280px;
+	width: 280px;
+    /*display: inline-block;*/
+    margin-top: 6px;
+    margin-left: 8px;
+    background: url('../image/bagpack.jpg');
+    background-size: cover;
+    float: left;
+}
+.imagecontainer2 a{
+    text-decoration: none;
+}
+.imagecontainer2 a p{
+    color: white;
+    margin-left: 83px;
+    margin-top: 122px;
+    font-family: sans-serif;
+}
+
+
+.imagecontainer3{
+	border: 1px solid white;
+	height: 280px;
+	width: 280px;
+    /*display: inline-block;*/
+    margin-top: 6px;
+    margin-left: 8px;
+    background: url('../image/tourpack.png');
+    background-size: cover;
+    float: left;
+}
+.imagecontainer3 a{
+    text-decoration: none;
+}
+.imagecontainer3 a p{
+    color: white;
+    margin-left: 83px;
+    margin-top: 135px;
+    font-family: sans-serif;
+}
+
+
+.imagecontainer4{
+	border: 1px solid white;
+	height: 280px;
+	width: 280px;
+    /*display: inline-block;*/
+    margin-top: 6px;
+    margin-left: 8px;
+    background: url('../image/facemask.png');
+    background-size: cover;
+    float: left;
+}
+.imagecontainer4 a{
+    text-decoration: none;
+}
+.imagecontainer4 a p{
+    color: white;
+    margin-left: 100px;
+    margin-top: 122px;
+    font-family: sans-serif;
+}
+
+
+
+.imagecontainer5{
+	border: 1px solid white;
+	height: 280px;
+	width: 280px;
+    /*display: inline-block;*/
+    margin-top: 6px;
+    margin-left: 8px;
+    background: url('../image/belt.png');
+    background-size: cover;
+    float: left;
+}
+.imagecontainer5 a{
+    text-decoration: none;
+}
+.imagecontainer5 a p{
+    color: white;
+    margin-left: 108px;
+    margin-top: 130px;
+    font-family: sans-serif;
+}
+
+
+
+.imagecontainer6{
+	border: 1px solid white;
+	height: 280px;
+	width: 280px;
+    /*display: inline-block;*/
+    margin-top: 6px;
+    margin-left: 8px;
+    background: url('../image/tankbag.png');
+    background-size: cover;
+    float: left;
+}
+.imagecontainer6 a{
+    text-decoration: none;
+}
+.imagecontainer6 a p{
+    color: white;
+    margin-left: 83px;
+    margin-top: 122px;
+    font-family: sans-serif;
+}
+
+
+.imagecontainer7{
+	border: 1px solid white;
+	height: 280px;
+	width: 280px;
+    /*display: inline-block;*/
+    margin-top: 6px;
+    margin-left: 8px;
+    background: url('../image/lifestyle.png');
+    background-size: cover;
+    float: left;
+}
+.imagecontainer7 a{
+    text-decoration: none;
+}
+.imagecontainer7 a p{
+    color: white;
+    margin-left: 100px;
+    margin-top: 122px;
+    font-family: sans-serif;
+}
+
+
+.imagecontainer8{
+	border: 1px solid white;
+	height: 280px;
+	width: 280px;
+    /*display: inline-block;*/
+    margin-top: 6px;
+    margin-left: 8px;
+    background: url('../image/headlight.jpg');
+    background-size: cover;
+    float: left;
+}
+.imagecontainer8 a{
+    text-decoration: none;
+}
+.imagecontainer8 a p{
+    color: white;
+    margin-left: 84px;
+    margin-top: 131px;
+    font-family: sans-serif;
+}
+
+/*-----------------------------------------8 container css start--------------------------------
+
+
+/*-----------------------------------------add banner css start--------------------------------*/
+
+.addbanner{
+    border: 1px solid ;
+    height: 505px;
+}
+.addbanner a img{
+        height: 505px;
+}
+.addbannercontent{
+    /*border: 1px solid yellow;*/
+    height: 223px;
+    position: relative;
+    bottom: 340px;
+    text-align: center;
+}
+.addbannercontent h1{
+    font-size: 40px;
+    color: #fff;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+.addbannercontent p{
+    font-size: 25px;
+    color: #fff;
+    font-weight: 700;
+    font-family: sans-serif;
+    margin-top: 12px;
+}
+.ad-readmore{
+    border: 1px solid white;
+    height: 50px;
+    width: 147px;
+    margin-left: 595px;
+    margin-top: 35px;
+    background-color: #ffffff24;
+    border-radius: 5px;
+}
+.ad-readmore p{
+        font-size: 15px;
+    font-weight: 400;
+}
+/*-----------------------------------------add banner css end----------------------------------*/
+
+
+/*-----------------------------------------shopify section css start----------------------------------*/
+.shopify{
+    border: 1px solid white;
+    height: 1260px;
+}
+.shopifycontainer{
+    border: 1px solid white;
+    height: 1260px;
+    width: 1200px;
+    margin-left: 75px;
+}
+.shopifyimg{
+    border: 1px solid white;
+    height: 580px;
+    width: 580px;
+    float: left;
+    margin: 35px 0px 0px 13px;    
+}
+.shopifyimg img{
+    height: 580px;
+}
+.shopifyimg-content{
+   /* border: 1px solid yellow;*/
+    height: 20px;
+    position: relative;
+    bottom: 300px;
+}
+.shopifyimg-content p{
+    text-align: center;
+    color: #fff;
+    font-size: 17px;
+    font-family: sans-serif;
+}
+
+/*-----------------------------------------shopify section css end------------------------------------*/
+
+/*-----------------------------------------signup section css start------------------------------------*/
+.signup{
+    border: 1px solid #000000;
+    height: 250px;
+    color: #ffffff;
+    background-color: #000000;
+}
+.signup h2{
+    text-align: center;
+    font-size: 26px;
+    font-weight: 700;
+    font-family: sans-serif;
+    margin-top: 55px;
+}
+.signup p{
+    text-align: center;
+    margin-top: 20px;
+    font-family: sans-serif;
+    margin-bottom: 15px;
+}
+.enteremail{
+    border: 1px solid #000000;
+    height: 55px;
+}
+.email{
+    height: 40px;
+    width: 245px;
+    margin-left: 485px;
+    border-radius: 6px;
+    padding-left: 10px;
+}
+.submit{
+    height: 40px;
+    margin-left: 15px;
+    width: 95px;
+    background: #4a4848;
+    color: #fff;
+    border-radius: 5px;
+}
+.submit:hover{
+    background: #000;
+}
+/*-----------------------------------------signup section css end--------------------------------------*/
+
+/*-----------------------------------------subfooter section css start------------------------------------*/
+.subfooter{
+    border: 1px solid white;
+    height: 403px;
+}
+.subfootercontainer{
+    border: 1px solid white;
+    height: 402px;
+    width: 1200px;
+    margin-left: 75px;
+}
+.subfootercolumn{
+    border: 1px solid white;
+    height: 268px;
+    width: 280px;
+    margin: 40px 0px 0px 10px;
+    float: left;
+}
+.subfootercolumn h6{
+    font-size: 14px;
+    color: #404040;
+    padding: 5px;
+    font-family: sans-serif;
+    padding-bottom: 15px;
+}
+.ul1{
+    list-style: none;
+    margin-left: 5px;
+}
+.ul1 li{
+    margin-top: 20px;
+}
+.ul1 li a{
+    text-decoration: none;
+    color: #4a4848;
+    font-size: 13px;
+    font-family: sans-serif;
+}
+.subfootercolumn2{
+    border: 1px solid white;
+    height: 362px;
+    width: 280px;
+    float: left;
+    margin: 40px 0px 0px 10px;
+}
+.subfootercolumn2 h6{
+    font-size: 14px;
+    color: #404040;
+    padding: 5px;
+    font-family: sans-serif;
+    padding-bottom: 25px;
+}
+.subfootercolumn2 p{
+    font-size: 13px;
+    font-family: sans-serif;
+    color: #404040;
+    margin-bottom: 25px;
+    line-height: 20px;
+}
+/*-----------------------------------------subfooter section css end----------------------------------------*/
+
+/*-----------------------------------------footer section css start----------------------------------------*/
+.footer{
+    border: 1px solid white;
+    height: 91px;
+    text-align: center;
+    padding-top: 35px;
+    font-size: 12px;
+    font-family: sans-serif;
+    color: #404040;
+}
+.footer a{
+text-decoration: none;
+    color: #404040;
+}
+/*------------------------------------------footer section css end-----------------------------------------*/
+
+
+
+

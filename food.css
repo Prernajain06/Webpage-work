@@ -1,0 +1,310 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+/*---------------------------------header css start----------------------*/
+.header{
+	/*background: green;*/
+	height: 65px;
+	/*width: 100%;*/
+}
+.header img{
+    width: 10%;
+    padding-left: 140px;
+    padding-top: 18px;
+}
+.menu{
+	float: right;
+    padding-top: 23px;
+    padding-right: 100px;
+    text-decoration: none;
+}
+.menu a{
+	color: #d70f64;
+	text-decoration: none;
+    padding-left: 33px;
+}
+/*---------------------------------header css end----------------------*/
+
+
+/*---------------------------------banner image css start----------------------*/
+
+.image{
+	background: url('../image/foodpandabanner1.jpg');
+    width: 100%;
+    height: 590px;
+    background-size: cover;
+}
+.image h1{
+	text-align: center;
+    font-size: 42px;
+    color: white;
+    /* font-family: serif; */
+    /* background: #9b3333; */
+    margin: auto;
+    width: 55%;
+    position: relative;
+    top: 325px;
+}
+.flagcontainer{
+	height: 55px;
+    width: 100%;
+    margin-top: 415px;
+    background: #808080c7;
+}
+.flagcontainer h3{
+    font-size: 12px;
+    margin-left: 100px;
+    padding-top: 10px;
+    color: white;
+}
+.flags{
+	/*border: 1px solid blue;*/
+	height: 38px;
+	width: 989px;
+    margin-left: 345px;
+    margin-top: -17px;
+}
+.flags a img{
+	padding: 0px 7px 7px;
+    height: 29px;
+}
+/*---------------------------------banner image css start----------------------*/
+
+
+/*---------------------------------about us css start--------------------------*/
+
+.aboutarea{
+	/*border: 1px solid blue;*/
+	height: 450px;
+}
+.aboutarea h1{
+	color: #d70f64;
+    /*border: 2px solid;*/
+    text-align: center;
+    margin-top: 220px;
+    font-family: "museo-sans", sans-serif;
+    font-weight: 400;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+}
+.aboutarea p{
+	text-align: center;
+    color: #333333;
+    font-size: 18px;
+    line-height: 1.6;
+    word-spacing: 2px;
+    font-family: sans-serif;
+    font-weight: 400;
+}
+.learnmore{
+	/*border: 2px solid blue;*/
+    height: 45px;
+    width: 265px;
+    margin-left: 540px;
+    background-color: #d70f64;
+    margin-top: 20px;
+}
+.learnmore a{
+	color: white;
+    text-decoration: none;
+    padding-left: 80px;
+    font-weight: 500;
+    font-family: system-ui;
+    position: relative;
+    top: 10px;
+}
+/*---------------------------------about us css end----------------------------*/
+
+/*---------------------------------career part css start----------------------------*/
+
+.carrerimage{
+	background: url('../image/foodpandabanner3.jpg');
+    width: 100%;
+    height: 590px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.carrercontainer{
+	/*border: 2px solid black;*/
+    height: 170px;
+    width: 809px;
+    margin-left: 270px;
+    position: relative;
+    top: 200px;
+}
+.carrercontainer h2{
+	font-family: "museo-sans", sans-serif;
+    font-weight: 400;
+    letter-spacing: 1px;
+    color: #d70f64;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+.carrercontainer p{
+	font-size: 18px;
+    text-align: center;
+    color: white;
+    margin-bottom: 38px;
+    line-height: 1.8;
+    font-family: sans-serif;
+}
+.joinus{
+	/*border: 1px solid red;*/
+	height: 40px;
+    width: 245px;
+    margin-left: 280px;
+    background: #d70f64;
+    text-align: center;
+    color: white;
+}
+.joinus a{
+	text-decoration: none;
+}
+/*---------------------------------carrer part css end----------------------------*/
+
+/*---------------------------------press part css start----------------------------*/
+
+.pressimage{
+	background: url('../image/foodpandabanner2.jpg');
+    width: 100%;
+    height: 590px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.presscontainer{
+	/*border: 2px solid black;*/
+    height: 190px;
+    width: 809px;
+    margin-left: 270px;
+    position: relative;
+    top: 200px;
+}
+.presscontainer h2{
+	font-family: "museo-sans", sans-serif;
+    font-weight: 400;
+    letter-spacing: 1px;
+    color: #d70f64;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+.presscontainer p{
+	font-size: 18px;
+    text-align: center;
+    color: white;
+    line-height: 1.8;
+    font-family: sans-serif;
+}
+.latest{
+	/*border: 1px solid red;*/
+	height: 40px;
+    width: 245px;
+    margin-left: 280px;
+    background: #d70f64;
+    text-align: center;
+    color: white;
+    margin-top: 25px;
+}
+.latest a{
+	text-decoration: none;
+}
+/*---------------------------------press part css end----------------------------*/
+
+/*---------------------------------contact part css start----------------------------*/
+.contact{
+	border: 1px solid #d70f64;
+	height: 650px;
+    background: #d70f64;
+}
+.contactcontainer{
+	/*border: 1px solid white;*/
+	height: 200px;
+	width: 809px;
+	margin-left: 280px;
+    margin-top: 220px;
+}
+.contactcontainer h2{
+	text-align: center;
+    color: white;
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.contactcontainer p{
+	font-size: 18px;
+    text-align: center;
+    color: white;
+    line-height: 1.8;
+    font-family: sans-serif;
+}
+.getintouch{
+    /*border: 1px solid red;*/
+    height: 45px;
+    width: 250px;
+    margin-left: 280px;
+    background: white;
+    text-align: center;
+    margin-top: 30px;
+}
+.getintouch a{
+	text-decoration: none;
+}
+.getintouch p{
+	    color: #d70f64;
+	    padding-top: 6px;
+}
+/*---------------------------------contact part css end----------------------------*/
+
+/*---------------------------------Footer css start----------------------------*/
+.footer{
+	border: 1px solid white;
+	height: 130px;
+}
+.footer img{
+	width: 190px;
+    margin: 30px 0px 0px 80px;
+}
+.footer p{
+	margin-left: 80px;
+    font-size: 19px;
+}
+.footercontent{
+	/*border: 1px solid black;*/
+    height: 27px;
+    width: 275px;
+    float: right;
+    margin-top: -22px;
+}
+.footercontent a{
+	color: #333;
+    font-weight: 300;
+    text-decoration: none;
+    margin-right: 18px;
+    font-size: 18px;
+}
+/*---------------------------------Footer css end------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
